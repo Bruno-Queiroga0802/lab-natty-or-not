@@ -14,5 +14,7 @@ O ChatGPT ajudou a elaborar textos de como a própria ferramente pode ser utiliz
 ## 🚀 Resultados
 O E-Book é um projeto prático de como a própria ferramenta pode ser utilizar no ambiente de negócios e capaz de gerar resultados.
 
+https://github.com/Bruno-Queiroga0802/E-book-DIO
+
 ## 💭 Reflexão (Opcional)
 O poder de análise e alavancagem dos negócios é incrivelmente postencializado pelas IA Generativas, devem ser incorporadas a todos os ambientes.

@@ -1,7 +1,7 @@
 Utilizando IA para Análise de Negócios
 
 ## 📒 Descrição
-Este e-book de 5 páginas mostra como a IA Generativa pode ajudar na construção e análise de négocios.
+Este e-book de 10 páginas mostra como a IA Generativa pode ajudar na construção e análise de négocios.
 
 ## 🤖 Tecnologias Utilizadas
 IA Generativa ChatGPT para elaboração de textos
